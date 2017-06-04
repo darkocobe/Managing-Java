@@ -11,7 +11,7 @@ The script defaults to disabling the Java browser plug-in and to set the Java br
 To see all of the script's options, open PowerShell and run:
 
 ```powershell
-get-help -full .Configure-JavaBrowserPlugIn.ps1
+get-help -full .\Configure-JavaBrowserPlugIn.ps1
 ```
 
 ## Requirements
